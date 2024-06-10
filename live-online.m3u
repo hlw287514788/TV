@@ -3,6 +3,45 @@
 #https://mirror.ghproxy.com/https://raw.githubusercontent.com/880824/TV/main/live-online.m3u
 
 
+#EXTINF:-1 group-title="油管直播",TVBS新闻台
+https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=2mCSYvcfhtc
+#EXTINF:-1 group-title="油管直播",TVBSHD
+https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=YvdcZ_jpLXE
+#EXTINF:-1 group-title="油管直播",中天新闻台
+https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=oIgbl7t0S_w
+#EXTINF:-1 group-title="油管直播",台视新闻台
+https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=xL0ch83RAK8
+#EXTINF:-1 group-title="油管直播",中视新闻台
+https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=TCnaIE_SAtM
+#EXTINF:-1 group-title="油管直播",三立海外直播
+https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=FoBfXvlOR6I
+#EXTINF:-1 group-title="油管直播",三立新闻台
+https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=oZdzzvxTfUY
+#EXTINF:-1 group-title="油管直播",东森财经新闻,
+https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=WHEPzbFA3hw
+#EXTINF:-1 group-title="油管直播",镜新闻
+https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=5n0y6b0Q25o
+#EXTINF:-1 group-title="油管直播",民视新闻
+https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=ylYJSBUgaMA
+#EXTINF:-1 group-title="油管直播",台湾PLUS+
+https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=ovzTfk5CmIE
+#EXTINF:-1 group-title="油管直播",TVBSNEWS
+https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=m_dhMSvUCIc
+#EXTINF:-1 group-title="油管直播",中视经典综艺
+https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=ADDSmXoPDY8
+#EXTINF:-1 group-title="油管直播",东森新闻台
+https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=2dfAzcDf8Zg_
+#EXTINF:-1 group-title="油管直播",寰宇新聞台live
+https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=6IquAgfvYmc
+#EXTINF:-1 group-title="油管直播",凤凰资讯台
+https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=0K6C6Rv4RR4_
+#EXTINF:-1 group-title="油管直播",中天新闻台2
+https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=WPfPjbOLNfE
+#EXTINF:-1 group-title="油管直播",公视新闻
+https://y2b.880824.xyz/live?url=https://www.youtube.com/watch?v=quwqlazU-c8
+#EXTINF:-1 group-title="油管直播",寰宇新聞台湾台
+
+
 
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="🧱LiTV新闻",TVBS新闻台
 http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv072
